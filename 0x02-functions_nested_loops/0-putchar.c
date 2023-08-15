@@ -1,5 +1,9 @@
 #include "main.h"
-int main (void)
+/**
+ * main - Entry point of the code 
+ * Return - 0(success)
+*/
+int main(void)
 {       
 _putchar ('_'); 
 _putchar ('p');
